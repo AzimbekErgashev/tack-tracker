@@ -32,6 +32,8 @@ nav{
 }
 
 .navbar-text{
+    font-size: 14px;
+    font-weight: 700;
     text-decoration: none;
     color: #18191F;
     margin-right: 32px;
