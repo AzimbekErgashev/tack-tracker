@@ -39,6 +39,10 @@ nav{
     margin-right: 32px;
 }
 
+.navbar-text{
+    margin-right: 0px;
+}
+
 .google-play{
     margin-left: 177px;
 }
