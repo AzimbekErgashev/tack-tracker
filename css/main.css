@@ -39,8 +39,8 @@ nav{
     margin-right: 32px;
 }
 
-.navbar-text{
-    margin-right: 0px;
+.navbar-text:last-child{
+    margin-right: 0;
 }
 
 .google-play{
